@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sahithijuloori/Daily_dSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0238-product-of-array-except-self](https://github.com/sahithijuloori/Daily_dSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/sahithijuloori/Daily_dSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/sahithijuloori/Daily_dSA/tree/master/0904-fruit-into-baskets) |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/sahithijuloori/Daily_dSA/tree/master/3467-transform-array-by-parity) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sahithijuloori/Daily_dSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sahithijuloori/Daily_dSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
