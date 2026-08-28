@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sahithijuloori/Daily_dSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/sahithijuloori/Daily_dSA/tree/master/0904-fruit-into-baskets) |
 | [1929-concatenation-of-array](https://github.com/sahithijuloori/Daily_dSA/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sahithijuloori/Daily_dSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3467-transform-array-by-parity](https://github.com/sahithijuloori/Daily_dSA/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahithijuloori/Daily_dSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sahithijuloori/Daily_dSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3467-transform-array-by-parity](https://github.com/sahithijuloori/Daily_dSA/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sahithijuloori/Daily_dSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sahithijuloori/Daily_dSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
