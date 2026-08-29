@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sahithijuloori/Daily_dSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/sahithijuloori/Daily_dSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Simulation
 |  |
 | ------- |
