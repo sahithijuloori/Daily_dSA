@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sahithijuloori/Daily_dSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/sahithijuloori/Daily_dSA/tree/master/1486-xor-operation-in-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sahithijuloori/Daily_dSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Simulation
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sahithijuloori/Daily_dSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/sahithijuloori/Daily_dSA/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
