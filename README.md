@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahithijuloori/Daily_dSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3467-transform-array-by-parity](https://github.com/sahithijuloori/Daily_dSA/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahithijuloori/Daily_dSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahithijuloori/Daily_dSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/sahithijuloori/Daily_dSA/tree/master/1486-xor-operation-in-an-array) |
 | [2413-smallest-even-multiple](https://github.com/sahithijuloori/Daily_dSA/tree/master/2413-smallest-even-multiple) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sahithijuloori/Daily_dSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahithijuloori/Daily_dSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
 | ------- |
