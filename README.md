@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/sahithijuloori/Daily_dSA/tree/master/0904-fruit-into-baskets) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahithijuloori/Daily_dSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3945-digit-frequency-score](https://github.com/sahithijuloori/Daily_dSA/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sahithijuloori/Daily_dSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sahithijuloori/Daily_dSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahithijuloori/Daily_dSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3945-digit-frequency-score](https://github.com/sahithijuloori/Daily_dSA/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
